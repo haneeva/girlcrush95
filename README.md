@@ -61,6 +61,10 @@
 
 ![210904-Blog-Post-SQL-Server-2-e1630753848251-1 (1)](https://github.com/girlcrush95/girlcrush95/assets/112862919/fba7eb52-74b2-49a0-b97a-2e484a057fc4)  ![1024px-MySQL ff87215b43fd7292af172e2a5d9b844217262571 (1)](https://github.com/girlcrush95/girlcrush95/assets/112862919/827e6e5b-6570-4c31-982f-c92175734cbc)
 
+<p align="left"><b>ML/DL</b></p>
+<div align="left">
+
+![1_VSQ0XEywxSgZBwW05GsZtw (1)](https://github.com/girlcrush95/girlcrush95/assets/112862919/adcc68af-9eaa-4aed-b241-9ada6153a6b0)
 
 
 
