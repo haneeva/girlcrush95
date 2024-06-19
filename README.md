@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- more than 5 years find bugs👩🏻‍💻<br>- Organized Person but still toleration😀<br>- Friendly and Cheerful🎉</p>
+<p align="left">- more than 5 years find bugs👩🏻‍💻<br>- Organized Person but still toleration😀<br>- Friendly and Cheerful🎉</p><br>- I am learning Django Framework and Machne Learning
 
 ###
 
